@@ -1,0 +1,22 @@
+body {
+  font-size: 0.7rem;
+  margin-top: 2rem;
+  text-align: center;
+  background: #bbcc43;
+  font-family: Muli, sans-serif;
+}
+circle:hover {
+    fill: gold;
+}
+
+#chart {
+  background: rgba(250,250,250,0.8);
+}
+.positive {
+  fill: red;
+  border: 1px solid black;
+}
+.negative {
+  fill: green;
+  border: 1px solid black;
+}
